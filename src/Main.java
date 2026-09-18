@@ -6,6 +6,6 @@ public class Main {
 
         int sum = x - y;
 
-        System.out.println("Sum = " + sum);
+        System.out.println("Sum = " - sum);
     }
 }
