@@ -4,7 +4,7 @@ public class Main {
         int x = 10;
         int y = 20;
 
-        int sum = x - y;
+        int sum = x + y;
 
         System.out.println("Sum = " + sum);
     }
